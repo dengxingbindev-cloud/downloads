@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "protocolVersion": 1,
+  "activationVersion": 3,
+  "sharedServiceVersion": 4,
+  "ntfsToolProtocolVersion": 1,
+  "architecture": "arm64",
+  "minimumMacOS": "26.5",
+  "bundleIdentifier": "com.devfire.ntfsflow.engine",
+  "releaseReady": false,
+  "unsignedReview": false,
+  "developmentOnly": true,
+  "notarization": "not-submitted",
+  "binaryOnly": true,
+  "revision": "c1c34aadd9a2fd2379f122e9b8bf489a7b3fa64e",
+  "workingTreeDirty": true,
+  "artifacts": [
+    {
+      "filename": "NtfsFlowEngine-1.0-arm64-DEVELOPMENT-aff643b0181f.pkg",
+      "sha256": "aff643b0181f1da5575cae3d78988e51558d71c9a0a8b2a2126b6030685a0086",
+      "bytes": 3256087,
+      "url": "http://127.0.0.1:8768/NtfsFlowEngine-1.0-arm64-DEVELOPMENT-aff643b0181f.pkg"
+    },
+    {
+      "filename": "NtfsFlowEngine-1.0-arm64-DEVELOPMENT-60c672c4dbb0.dmg",
+      "sha256": "60c672c4dbb03092b83bb44087eaf6d627da6407266c7df27462e24c4526cc16",
+      "bytes": 4501295,
+      "url": "http://127.0.0.1:8768/NtfsFlowEngine-1.0-arm64-DEVELOPMENT-60c672c4dbb0.dmg"
+    }
+  ]
+}
