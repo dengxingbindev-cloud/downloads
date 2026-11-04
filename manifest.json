@@ -7,7 +7,7 @@
   "architecture": "arm64",
   "minimumMacOS": "26.0",
   "bundleIdentifier": "com.devfire.ntfsflow.engine",
-  "releaseReady": false,
+  "releaseReady": true,
   "unsignedReview": false,
   "developmentOnly": true,
   "notarization": "not-submitted",
