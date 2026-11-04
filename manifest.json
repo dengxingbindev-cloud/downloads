@@ -9,7 +9,7 @@
   "bundleIdentifier": "com.devfire.ntfsflow.engine",
   "releaseReady": true,
   "unsignedReview": false,
-  "developmentOnly": true,
+  "developmentOnly": false,
   "notarization": "not-submitted",
   "binaryOnly": true,
   "revision": "d9124399c54d8e1fd8f49f5b75679c599207f571",
