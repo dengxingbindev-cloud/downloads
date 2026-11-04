@@ -8,7 +8,7 @@
   "minimumMacOS": "26.0",
   "bundleIdentifier": "com.devfire.ntfsflow.engine",
   "releaseReady": true,
-  "unsignedReview": false,
+  "unsignedReview": true,
   "developmentOnly": false,
   "notarization": "not-submitted",
   "binaryOnly": true,
