@@ -16,16 +16,16 @@
   "workingTreeDirty": true,
   "artifacts": [
     {
-      "filename": "NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-586f6a85a319.pkg",
-      "sha256": "586f6a85a319687bdf79c02aabeb34751ec545fbe8dd611424476bfbb2f75087",
-      "bytes": 4720911,
-      "url": "https://dengxingbindev-cloud.github.io/downloads/development/NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-586f6a85a319.pkg"
+      "filename": "NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-88b811146383.pkg",
+      "sha256": "88b811146383c32762ef148918ad668625ff4ecc8bfb8fd003f7938b8b0ba5e9",
+      "bytes": 4720884,
+      "url": "https://dengxingbindev-cloud.github.io/downloads/development/NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-88b811146383.pkg"
     },
     {
-      "filename": "NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-b6aeb11985c4.dmg",
-      "sha256": "b6aeb11985c47fb5e5c36c8a2608e414c28b6cedf6ca12d23aea8a6537925d05",
-      "bytes": 5694373,
-      "url": "https://dengxingbindev-cloud.github.io/downloads/development/NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-b6aeb11985c4.dmg"
+      "filename": "NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-a71f7ad07663.dmg",
+      "sha256": "a71f7ad07663ad15f70b80165ee6237f1c5d89037a65365b1e2149d7b4d6823e",
+      "bytes": 5694370,
+      "url": "https://dengxingbindev-cloud.github.io/downloads/development/NtfsFlowEngine-1.0.1-arm64-DEVELOPMENT-a71f7ad07663.dmg"
     }
   ]
 }
